@@ -7,12 +7,10 @@ namespace Поиск_простых_чисел
             InitializeComponent();
         }
 
-        private Point lastPoint;
-
-        private int primeValue,
+        private int value,
                     count = 0;
 
-        private static bool IsPrimeNumber(int number)
+        private static bool primeNumber(int number)
         {
             int sqrtNumber = (int)Math.Sqrt(number);
             for (int i = 2; i <= sqrtNumber; i++)
@@ -32,19 +30,15 @@ namespace Поиск_простых_чисел
             FindButton.Enabled = enabled;
         }
 
-        private void ClearButton_Click(object sender, EventArgs e)
-        {
-            Application.Restart();
-        }
 
-        private void FindButton_Click(object sender, EventArgs e)
+        private void search_Click(object sender, EventArgs e)
         {
             try
             {
-                primeValue = int.Parse(PrimeValue.Text);
-                for (int number = primeValue; count != int.Parse(CountValues.Text); number++)
+                value = int.Parse(PrimeValue.Text);
+                for (int number = value; count != int.Parse(CountValues.Text); number++)
                 {
-                    if (IsPrimeNumber(number))
+                    if (primeNumber(number))
                     {
                         PrimeValuesListBox.Items.Add(number);
                         count++;
@@ -58,40 +52,6 @@ namespace Поиск_простых_чисел
             }
         }
 
-        private void ExitButton_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
 
-        private void ExitButton_MouseEnter(object sender, EventArgs e)
-        {
-            ExitButton.ForeColor = Color.White;
-            ExitButton.BackColor = Color.Red;
-        }
-
-        private void ExitButton_MouseLeave(object sender, EventArgs e)
-        {
-            ExitButton.ForeColor = Color.Black;
-            ExitButton.BackColor = Color.Transparent;
-        }
-
-        private void Background_MouseMove(object sender, MouseEventArgs e)
-        {
-            if (e.Button == MouseButtons.Left)
-            {
-                this.Left += e.X - lastPoint.X;
-                this.Top += e.Y - lastPoint.Y;
-            }
-        }
-
-        private void Background_MouseDown(object sender, MouseEventArgs e)
-        {
-            lastPoint = new Point(e.X, e.Y);
-        }
-
-        private void PrimeValue_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }

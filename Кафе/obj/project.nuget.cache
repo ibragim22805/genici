@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kQ1kGm4MRsRLTZoppBep03oFKstHCfi4TnEjUsKplnW5zt80BG45PBSjOkZqJNMRyWlR/rvrl69UvKczfvL15A==",
+  "dgSpecHash": "NMD92mKmZSR/zSjHeKR6nr6caqPpZCSvxCS4RY0HKIFI6P/E0NCb6Kgi/Kg8WKTs75URo/oQ1M2eV0h7RXeKDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Я\\Source\\Repos\\Labs\\Кафе\\Кафе.csproj",
+  "projectFilePath": "C:\\Users\\Я\\Source\\Repos\\ibragim22805\\genici\\Кафе\\Кафе.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Я\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\Я\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

@@ -15,3 +15,20 @@ C:\Users\Я\Source\Repos\Labs\Поиск простых чисел\obj\Debug\net
 C:\Users\Я\Source\Repos\Labs\Поиск простых чисел\obj\Debug\net6.0-windows\Поиск простых чисел.pdb
 C:\Users\Я\Source\Repos\Labs\Поиск простых чисел\obj\Debug\net6.0-windows\Поиск простых чисел.genruntimeconfig.cache
 C:\Users\Я\Source\Repos\Labs\Поиск простых чисел\obj\Debug\net6.0-windows\ref\Поиск простых чисел.dll
+C:\Users\Я\Source\Repos\ibragim22805\genici\Поиск простых чисел\bin\Debug\net6.0-windows\Поиск простых чисел.exe
+C:\Users\Я\Source\Repos\ibragim22805\genici\Поиск простых чисел\bin\Debug\net6.0-windows\Поиск простых чисел.deps.json
+C:\Users\Я\Source\Repos\ibragim22805\genici\Поиск простых чисел\bin\Debug\net6.0-windows\Поиск простых чисел.runtimeconfig.json
+C:\Users\Я\Source\Repos\ibragim22805\genici\Поиск простых чисел\bin\Debug\net6.0-windows\Поиск простых чисел.dll
+C:\Users\Я\Source\Repos\ibragim22805\genici\Поиск простых чисел\bin\Debug\net6.0-windows\Поиск простых чисел.pdb
+C:\Users\Я\Source\Repos\ibragim22805\genici\Поиск простых чисел\obj\Debug\net6.0-windows\Поиск простых чисел.csproj.AssemblyReference.cache
+C:\Users\Я\Source\Repos\ibragim22805\genici\Поиск простых чисел\obj\Debug\net6.0-windows\Поиск_простых_чисел.Menu.resources
+C:\Users\Я\Source\Repos\ibragim22805\genici\Поиск простых чисел\obj\Debug\net6.0-windows\Поиск простых чисел.csproj.GenerateResource.cache
+C:\Users\Я\Source\Repos\ibragim22805\genici\Поиск простых чисел\obj\Debug\net6.0-windows\Поиск простых чисел.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Source\Repos\ibragim22805\genici\Поиск простых чисел\obj\Debug\net6.0-windows\Поиск простых чисел.AssemblyInfoInputs.cache
+C:\Users\Я\Source\Repos\ibragim22805\genici\Поиск простых чисел\obj\Debug\net6.0-windows\Поиск простых чисел.AssemblyInfo.cs
+C:\Users\Я\Source\Repos\ibragim22805\genici\Поиск простых чисел\obj\Debug\net6.0-windows\Поиск простых чисел.csproj.CoreCompileInputs.cache
+C:\Users\Я\Source\Repos\ibragim22805\genici\Поиск простых чисел\obj\Debug\net6.0-windows\Поиск простых чисел.dll
+C:\Users\Я\Source\Repos\ibragim22805\genici\Поиск простых чисел\obj\Debug\net6.0-windows\refint\Поиск простых чисел.dll
+C:\Users\Я\Source\Repos\ibragim22805\genici\Поиск простых чисел\obj\Debug\net6.0-windows\Поиск простых чисел.pdb
+C:\Users\Я\Source\Repos\ibragim22805\genici\Поиск простых чисел\obj\Debug\net6.0-windows\Поиск простых чисел.genruntimeconfig.cache
+C:\Users\Я\Source\Repos\ibragim22805\genici\Поиск простых чисел\obj\Debug\net6.0-windows\ref\Поиск простых чисел.dll

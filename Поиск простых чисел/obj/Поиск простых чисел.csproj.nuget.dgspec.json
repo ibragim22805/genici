@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Я\\Source\\Repos\\Labs\\Поиск простых чисел\\Поиск простых чисел.csproj": {}
+    "C:\\Users\\Я\\Source\\Repos\\ibragim22805\\genici\\Поиск простых чисел\\Поиск простых чисел.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Я\\Source\\Repos\\Labs\\Поиск простых чисел\\Поиск простых чисел.csproj": {
+    "C:\\Users\\Я\\Source\\Repos\\ibragim22805\\genici\\Поиск простых чисел\\Поиск простых чисел.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Я\\Source\\Repos\\Labs\\Поиск простых чисел\\Поиск простых чисел.csproj",
+        "projectUniqueName": "C:\\Users\\Я\\Source\\Repos\\ibragim22805\\genici\\Поиск простых чисел\\Поиск простых чисел.csproj",
         "projectName": "Поиск простых чисел",
-        "projectPath": "C:\\Users\\Я\\Source\\Repos\\Labs\\Поиск простых чисел\\Поиск простых чисел.csproj",
+        "projectPath": "C:\\Users\\Я\\Source\\Repos\\ibragim22805\\genici\\Поиск простых чисел\\Поиск простых чисел.csproj",
         "packagesPath": "C:\\Users\\Я\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Я\\Source\\Repos\\Labs\\Поиск простых чисел\\obj\\",
+        "outputPath": "C:\\Users\\Я\\Source\\Repos\\ibragim22805\\genici\\Поиск простых чисел\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Я\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Я\\Source\\Repos\\Labs\\Кафе\\Кафе.csproj": {}
+    "C:\\Users\\Я\\Source\\Repos\\ibragim22805\\genici\\Кафе\\Кафе.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Я\\Source\\Repos\\Labs\\Кафе\\Кафе.csproj": {
+    "C:\\Users\\Я\\Source\\Repos\\ibragim22805\\genici\\Кафе\\Кафе.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Я\\Source\\Repos\\Labs\\Кафе\\Кафе.csproj",
+        "projectUniqueName": "C:\\Users\\Я\\Source\\Repos\\ibragim22805\\genici\\Кафе\\Кафе.csproj",
         "projectName": "Кафе",
-        "projectPath": "C:\\Users\\Я\\Source\\Repos\\Labs\\Кафе\\Кафе.csproj",
+        "projectPath": "C:\\Users\\Я\\Source\\Repos\\ibragim22805\\genici\\Кафе\\Кафе.csproj",
         "packagesPath": "C:\\Users\\Я\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Я\\Source\\Repos\\Labs\\Кафе\\obj\\",
+        "outputPath": "C:\\Users\\Я\\Source\\Repos\\ibragim22805\\genici\\Кафе\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Я\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Я\\Source\\Repos\\Labs\\Жалюзи\\Жалюзи.csproj",
+      "projectUniqueName": "C:\\Users\\Я\\Source\\Repos\\ibragim22805\\genici\\Жалюзи\\Жалюзи.csproj",
       "projectName": "Жалюзи",
-      "projectPath": "C:\\Users\\Я\\Source\\Repos\\Labs\\Жалюзи\\Жалюзи.csproj",
+      "projectPath": "C:\\Users\\Я\\Source\\Repos\\ibragim22805\\genici\\Жалюзи\\Жалюзи.csproj",
       "packagesPath": "C:\\Users\\Я\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Я\\Source\\Repos\\Labs\\Жалюзи\\obj\\",
+      "outputPath": "C:\\Users\\Я\\Source\\Repos\\ibragim22805\\genici\\Жалюзи\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Я\\AppData\\Roaming\\NuGet\\NuGet.Config",

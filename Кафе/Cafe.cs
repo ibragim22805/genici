@@ -64,5 +64,10 @@ namespace Кафе
         {
 
         }
+
+        private void Background_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

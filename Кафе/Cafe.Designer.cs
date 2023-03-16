@@ -56,6 +56,7 @@
             Background.Name = "Background";
             Background.Size = new Size(1000, 600);
             Background.TabIndex = 0;
+            Background.Paint += Background_Paint;
             // 
             // label1
             // 
