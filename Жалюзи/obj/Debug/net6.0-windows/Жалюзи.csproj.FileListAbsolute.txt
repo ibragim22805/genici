@@ -1,0 +1,17 @@
+C:\Users\Я\Source\Repos\Labs\Жалюзи\obj\Debug\net6.0-windows\Жалюзи.csproj.AssemblyReference.cache
+C:\Users\Я\Source\Repos\Labs\Жалюзи\obj\Debug\net6.0-windows\Жалюзи.Menu.resources
+C:\Users\Я\Source\Repos\Labs\Жалюзи\obj\Debug\net6.0-windows\Жалюзи.csproj.GenerateResource.cache
+C:\Users\Я\Source\Repos\Labs\Жалюзи\obj\Debug\net6.0-windows\Жалюзи.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Source\Repos\Labs\Жалюзи\obj\Debug\net6.0-windows\Жалюзи.AssemblyInfoInputs.cache
+C:\Users\Я\Source\Repos\Labs\Жалюзи\obj\Debug\net6.0-windows\Жалюзи.AssemblyInfo.cs
+C:\Users\Я\Source\Repos\Labs\Жалюзи\obj\Debug\net6.0-windows\Жалюзи.csproj.CoreCompileInputs.cache
+C:\Users\Я\Source\Repos\Labs\Жалюзи\bin\Debug\net6.0-windows\Жалюзи.exe
+C:\Users\Я\Source\Repos\Labs\Жалюзи\bin\Debug\net6.0-windows\Жалюзи.deps.json
+C:\Users\Я\Source\Repos\Labs\Жалюзи\bin\Debug\net6.0-windows\Жалюзи.runtimeconfig.json
+C:\Users\Я\Source\Repos\Labs\Жалюзи\bin\Debug\net6.0-windows\Жалюзи.dll
+C:\Users\Я\Source\Repos\Labs\Жалюзи\bin\Debug\net6.0-windows\Жалюзи.pdb
+C:\Users\Я\Source\Repos\Labs\Жалюзи\obj\Debug\net6.0-windows\Жалюзи.dll
+C:\Users\Я\Source\Repos\Labs\Жалюзи\obj\Debug\net6.0-windows\refint\Жалюзи.dll
+C:\Users\Я\Source\Repos\Labs\Жалюзи\obj\Debug\net6.0-windows\Жалюзи.pdb
+C:\Users\Я\Source\Repos\Labs\Жалюзи\obj\Debug\net6.0-windows\Жалюзи.genruntimeconfig.cache
+C:\Users\Я\Source\Repos\Labs\Жалюзи\obj\Debug\net6.0-windows\ref\Жалюзи.dll
