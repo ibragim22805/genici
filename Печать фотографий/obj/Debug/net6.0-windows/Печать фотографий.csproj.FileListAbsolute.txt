@@ -15,3 +15,20 @@ C:\Users\Я\Source\Repos\Labs\Печать фотографий\obj\Debug\net6.0
 C:\Users\Я\Source\Repos\Labs\Печать фотографий\obj\Debug\net6.0-windows\Печать фотографий.pdb
 C:\Users\Я\Source\Repos\Labs\Печать фотографий\obj\Debug\net6.0-windows\Печать фотографий.genruntimeconfig.cache
 C:\Users\Я\Source\Repos\Labs\Печать фотографий\obj\Debug\net6.0-windows\ref\Печать фотографий.dll
+C:\Users\Я\Source\Repos\genici\Печать фотографий\bin\Debug\net6.0-windows\Печать фотографий.exe
+C:\Users\Я\Source\Repos\genici\Печать фотографий\bin\Debug\net6.0-windows\Печать фотографий.deps.json
+C:\Users\Я\Source\Repos\genici\Печать фотографий\bin\Debug\net6.0-windows\Печать фотографий.runtimeconfig.json
+C:\Users\Я\Source\Repos\genici\Печать фотографий\bin\Debug\net6.0-windows\Печать фотографий.dll
+C:\Users\Я\Source\Repos\genici\Печать фотографий\bin\Debug\net6.0-windows\Печать фотографий.pdb
+C:\Users\Я\Source\Repos\genici\Печать фотографий\obj\Debug\net6.0-windows\Печать фотографий.csproj.AssemblyReference.cache
+C:\Users\Я\Source\Repos\genici\Печать фотографий\obj\Debug\net6.0-windows\Печать_фотографий.Photo.resources
+C:\Users\Я\Source\Repos\genici\Печать фотографий\obj\Debug\net6.0-windows\Печать фотографий.csproj.GenerateResource.cache
+C:\Users\Я\Source\Repos\genici\Печать фотографий\obj\Debug\net6.0-windows\Печать фотографий.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Source\Repos\genici\Печать фотографий\obj\Debug\net6.0-windows\Печать фотографий.AssemblyInfoInputs.cache
+C:\Users\Я\Source\Repos\genici\Печать фотографий\obj\Debug\net6.0-windows\Печать фотографий.AssemblyInfo.cs
+C:\Users\Я\Source\Repos\genici\Печать фотографий\obj\Debug\net6.0-windows\Печать фотографий.csproj.CoreCompileInputs.cache
+C:\Users\Я\Source\Repos\genici\Печать фотографий\obj\Debug\net6.0-windows\Печать фотографий.dll
+C:\Users\Я\Source\Repos\genici\Печать фотографий\obj\Debug\net6.0-windows\refint\Печать фотографий.dll
+C:\Users\Я\Source\Repos\genici\Печать фотографий\obj\Debug\net6.0-windows\Печать фотографий.pdb
+C:\Users\Я\Source\Repos\genici\Печать фотографий\obj\Debug\net6.0-windows\Печать фотографий.genruntimeconfig.cache
+C:\Users\Я\Source\Repos\genici\Печать фотографий\obj\Debug\net6.0-windows\ref\Печать фотографий.dll

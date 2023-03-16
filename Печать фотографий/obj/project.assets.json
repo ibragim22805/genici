@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Я\\Source\\Repos\\Labs\\Печать фотографий\\Печать фотографий.csproj",
+      "projectUniqueName": "C:\\Users\\Я\\Source\\Repos\\genici\\Печать фотографий\\Печать фотографий.csproj",
       "projectName": "Печать фотографий",
-      "projectPath": "C:\\Users\\Я\\Source\\Repos\\Labs\\Печать фотографий\\Печать фотографий.csproj",
+      "projectPath": "C:\\Users\\Я\\Source\\Repos\\genici\\Печать фотографий\\Печать фотографий.csproj",
       "packagesPath": "C:\\Users\\Я\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Я\\Source\\Repos\\Labs\\Печать фотографий\\obj\\",
+      "outputPath": "C:\\Users\\Я\\Source\\Repos\\genici\\Печать фотографий\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Я\\AppData\\Roaming\\NuGet\\NuGet.Config",

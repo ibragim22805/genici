@@ -73,7 +73,7 @@
             CalculateButton.TabIndex = 7;
             CalculateButton.Text = "Рассчитать";
             CalculateButton.UseVisualStyleBackColor = true;
-            CalculateButton.Click += CalculateButton_Click;
+            CalculateButton.Click += Raschet_Click;
             // 
             // Price
             // 

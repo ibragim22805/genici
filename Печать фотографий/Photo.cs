@@ -5,28 +5,27 @@ namespace Печать_фотографий
         public Photo()
         {
             InitializeComponent();
-            BaseStart();
+            Begin();
         }
 
-        private Point lastPoint;
 
         int black = 5;
         int colored = 15;
         int negative = 10;
 
-        private const uint SIZE_3X4_PRICE = 7,
-                           SIZE_9X12_PRICE = 21,
-                           SIZE_12X15_PRICE = 27,
-                           SIZE_18X24_PRICE = 42;
+        uint size_3x4 = 7;
+        uint size_9x12 = 21;
+        uint size_12x15 = 27;
+        uint size_18x24 = 32;
 
-        private void BaseStart()
+        private void Begin()
         {
             TypeBlackWhite.Checked = true;
             Size3x4.Checked = true;
             Count.Text = "0";
         }
 
-        private string PricePhoto(uint Size)
+        private string Cost(uint Size)
         {
             string result = string.Empty;
             if (TypeBlackWhite.Checked)
@@ -44,25 +43,25 @@ namespace Печать_фотографий
             return result;
         }
 
-        private void CalculateButton_Click(object sender, EventArgs e)
+        private void Raschet_Click(object sender, EventArgs e)
         {
             try
             {
                 if (Size3x4.Checked)
                 {
-                    Price.Text = PricePhoto(SIZE_3X4_PRICE);
+                    Price.Text = Cost(size_3x4);
                 }
                 else if (Size9x12.Checked)
                 {
-                    Price.Text = PricePhoto(SIZE_9X12_PRICE);
+                    Price.Text = Cost(size_9x12);
                 }
                 else if (Size12x15.Checked)
                 {
-                    Price.Text = PricePhoto(SIZE_12X15_PRICE);
+                    Price.Text = Cost(size_12x15);
                 }
                 else if (Size18x24.Checked)
                 {
-                    Price.Text = PricePhoto(SIZE_18X24_PRICE);
+                    Price.Text = Cost(size_18x24);
                 }
             }
             catch
