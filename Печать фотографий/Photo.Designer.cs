@@ -62,12 +62,13 @@
             Background.Name = "Background";
             Background.Size = new Size(1000, 600);
             Background.TabIndex = 0;
+            Background.Paint += Background_Paint;
             // 
             // CalculateButton
             // 
             CalculateButton.Cursor = Cursors.Hand;
             CalculateButton.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point);
-            CalculateButton.Location = new Point(213, 478);
+            CalculateButton.Location = new Point(591, 328);
             CalculateButton.Name = "CalculateButton";
             CalculateButton.Size = new Size(177, 46);
             CalculateButton.TabIndex = 7;
@@ -79,7 +80,7 @@
             // 
             Price.Enabled = false;
             Price.Font = new Font("Segoe UI Semibold", 20.25F, FontStyle.Bold, GraphicsUnit.Point);
-            Price.Location = new Point(182, 406);
+            Price.Location = new Point(554, 266);
             Price.Name = "Price";
             Price.Size = new Size(236, 43);
             Price.TabIndex = 6;
@@ -88,7 +89,7 @@
             // 
             PriceLabel.AutoSize = true;
             PriceLabel.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
-            PriceLabel.Location = new Point(268, 358);
+            PriceLabel.Location = new Point(636, 218);
             PriceLabel.Name = "PriceLabel";
             PriceLabel.Size = new Size(65, 30);
             PriceLabel.TabIndex = 5;
@@ -97,7 +98,7 @@
             // Count
             // 
             Count.Font = new Font("Segoe UI Semibold", 20.25F, FontStyle.Bold, GraphicsUnit.Point);
-            Count.Location = new Point(746, 461);
+            Count.Location = new Point(77, 266);
             Count.Name = "Count";
             Count.Size = new Size(172, 43);
             Count.TabIndex = 4;
@@ -106,7 +107,7 @@
             // 
             CountLabel.AutoSize = true;
             CountLabel.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
-            CountLabel.Location = new Point(605, 470);
+            CountLabel.Location = new Point(77, 218);
             CountLabel.Name = "CountLabel";
             CountLabel.Size = new Size(135, 30);
             CountLabel.TabIndex = 3;
@@ -118,7 +119,7 @@
             TypeBox.Controls.Add(TypeColored);
             TypeBox.Controls.Add(TypeBlackWhite);
             TypeBox.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            TypeBox.Location = new Point(605, 286);
+            TypeBox.Location = new Point(77, 351);
             TypeBox.Name = "TypeBox";
             TypeBox.Size = new Size(313, 169);
             TypeBox.TabIndex = 2;
@@ -171,7 +172,7 @@
             SizeBox.Controls.Add(Size9x12);
             SizeBox.Controls.Add(Size3x4);
             SizeBox.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            SizeBox.Location = new Point(605, 111);
+            SizeBox.Location = new Point(77, 12);
             SizeBox.Name = "SizeBox";
             SizeBox.Size = new Size(313, 169);
             SizeBox.TabIndex = 1;
@@ -236,7 +237,6 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1000, 600);
             Controls.Add(Background);
-            FormBorderStyle = FormBorderStyle.None;
             Name = "Photo";
             Background.ResumeLayout(false);
             Background.PerformLayout();

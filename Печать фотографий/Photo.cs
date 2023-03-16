@@ -70,5 +70,9 @@ namespace Печать_фотографий
             }
         }
 
+        private void Background_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
