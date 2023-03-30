@@ -1,0 +1,18 @@
+C:\Users\Я\Ff\Любимые напитки\bin\Debug\net6.0-windows\Любимые напитки.exe
+C:\Users\Я\Ff\Любимые напитки\bin\Debug\net6.0-windows\Любимые напитки.deps.json
+C:\Users\Я\Ff\Любимые напитки\bin\Debug\net6.0-windows\Любимые напитки.runtimeconfig.json
+C:\Users\Я\Ff\Любимые напитки\bin\Debug\net6.0-windows\Любимые напитки.dll
+C:\Users\Я\Ff\Любимые напитки\bin\Debug\net6.0-windows\Любимые напитки.pdb
+C:\Users\Я\Ff\Любимые напитки\obj\Debug\net6.0-windows\Любимые напитки.csproj.AssemblyReference.cache
+C:\Users\Я\Ff\Любимые напитки\obj\Debug\net6.0-windows\Любимые_напитки.Menu.resources
+C:\Users\Я\Ff\Любимые напитки\obj\Debug\net6.0-windows\Любимые_напитки.Properties.Resources.resources
+C:\Users\Я\Ff\Любимые напитки\obj\Debug\net6.0-windows\Любимые напитки.csproj.GenerateResource.cache
+C:\Users\Я\Ff\Любимые напитки\obj\Debug\net6.0-windows\Любимые напитки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Ff\Любимые напитки\obj\Debug\net6.0-windows\Любимые напитки.AssemblyInfoInputs.cache
+C:\Users\Я\Ff\Любимые напитки\obj\Debug\net6.0-windows\Любимые напитки.AssemblyInfo.cs
+C:\Users\Я\Ff\Любимые напитки\obj\Debug\net6.0-windows\Любимые напитки.csproj.CoreCompileInputs.cache
+C:\Users\Я\Ff\Любимые напитки\obj\Debug\net6.0-windows\Любимые напитки.dll
+C:\Users\Я\Ff\Любимые напитки\obj\Debug\net6.0-windows\refint\Любимые напитки.dll
+C:\Users\Я\Ff\Любимые напитки\obj\Debug\net6.0-windows\Любимые напитки.pdb
+C:\Users\Я\Ff\Любимые напитки\obj\Debug\net6.0-windows\Любимые напитки.genruntimeconfig.cache
+C:\Users\Я\Ff\Любимые напитки\obj\Debug\net6.0-windows\ref\Любимые напитки.dll
